@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header-full-widht {
+    width: 1200px;
+    margin: auto;
+}
+
+.main-logo {
+    width: 85%;
+}
+
+.main-logo img {
+    max-width: 100%;
+
+}
+.main-date a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+.main-date a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+.main-date {
+    border-bottom: 3px solid black;
+}
