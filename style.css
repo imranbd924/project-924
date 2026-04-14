@@ -6,6 +6,7 @@
 .header-full-widht {
     width: 1200px;
     margin: auto;
+    margin-bottom: 25px;
 }
 
 .main-logo {
@@ -29,4 +30,206 @@
 
 .main-date {
     border-bottom: 3px solid black;
+}
+.main-menu nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.main-menu nav ul li a {
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+    font-size: 20px;
+    color: black;
+}
+
+.fotter-full-widht {
+    width: 1200px;
+    margin: auto;
+}
+
+.main-logo-fotter {
+    width: 60%;
+    margin: auto;
+}
+
+.main-logo-fotter img {
+    max-width: 100%;
+}
+.text {
+    width: 20%;
+    margin: auto;
+    margin-bottom: 39px;
+}
+
+.text h1 {
+    font-size: 14px;
+}
+
+.about-as {
+    width: 15%;
+    margin: auto;
+    margin-bottom: 52px;
+}
+
+.about-as h1 {
+    font-size: 15px;
+    color: black;
+}
+
+
+
+.Mission-News {
+    width: 17%;
+    margin: auto;
+}
+
+.Mission-News h1 {
+    font-size: 11px;
+    color: black;
+}
+.main-menu {
+    border-bottom: 1px solid black;
+    padding: 10px;
+}
+.section-box-item {
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-date a {
+    padding-bottom: 10px;
+    display: block;
+}.section-box-item-1 {
+    width: 24%;
+    background: black;
+}
+
+.section-box-item-2 {
+    width: 48%;
+}
+
+.section-box-item-3 {
+    width: 24%;
+    background: green;
+}
+.section-box-item-2-open {
+    width: 100%;
+}
+
+.section-box-item-2-open-text h1 {
+    font-size: 15px;
+    border-bottom: 1px solid black;
+    padding: 10px;
+    display: block;
+}
+
+.section-box-item-2-open-photo {
+    width: 80%;
+    justify-content: center;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.section-box-item-2-open-photo img {
+    max-width: 100%;
+    margin-bottom: 10px;
+}
+.section-box-item-2-open-text {
+    width: 100%;
+    margin-bottom: 20px;
+}
+.section-box-item-2-open-photo h1 {
+    font-size: 23px;
+    line-height: 107%;
+    margin-bottom: 4px;
+}
+
+h1 {}
+
+.section-box-item-2-open-photo h2 {
+    font-size: 13px;
+    margin-bottom: 20px;
+}
+
+.section-box-item-2-open-photo h3 {
+    font-size: 17px;
+    border-bottom: 1px solid black;
+    padding:  20px 0;
+    display: block;
+}
+.section-box-item-2-open-photo-1 {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.section-box-item-2-open-text-1 {
+    width: 40%;
+}
+
+.section-box-item-2-open-text-1-2 {
+    width: 68%;
+}
+
+.section-box-item-2-open-text-1img {
+    max-width: 100%;
+}
+
+.section-box-item-2-open-text-1 img {
+    max-width: 100%;
+}
+.section-box-item-2-open-text-1-2 h1 {
+    font-size: 16px;
+    color: black;
+    padding: 14px 3px 0px 0px;
+}
+.section-box-item-2-open-text-1-2 h2 {
+    font-size: 13px;
+    color: black;
+}
+.section-box-item-2-open-text-2 {
+    width: 80%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.section-box-item-2-open-text-2 h1 {
+    font-size: 14px;
+    color: black;
+    border-bottom: 1px solid black;
+    padding: 10px 0;
+}
+.section-box-item-2-open-photo-2 {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    gap: 10px;
+}
+
+.section-box-item-2-open-photo-2 img {
+    max-width: 100%;
+}
+.section-box-item-2-open-text-2-2 {
+    width: 57%;
+}
+.section-box-item-2-open-text-2-2 a {
+    padding: 14px 0px  8px 0px;
+    display: block;
+    text-decoration: none;
+    font-size: 16px;
+    color: black;
+}.section-box-item-2-open-text-2\.\. {
+    width: 40%;
+}.section-box-item-2-open-text-2-2 h1 {
+    font-size: 9px;
+    color: black;
+    text-transform: uppercase;
 }
