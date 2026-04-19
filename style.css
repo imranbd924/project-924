@@ -314,4 +314,12 @@ h1 {}
     font-size: 22px;
     color: black;
     margin-bottom: 7px;
+}.section-box-item-bd-main-3 h1 {
+    font-size: 17px;
+    color: blue;
+}
+
+.section-box-item-bd-main-2 h2 {
+    font-size: 17px;
+    margin-bottom: 10px;
 }
