@@ -115,7 +115,7 @@
 
 .section-box-item-3 {
     width: 24%;
-    background: green;
+    /* background: green; */
 }
 .section-box-item-2-open {
     width: 100%;
@@ -228,6 +228,7 @@ h1 {}
     color: black;
 }.section-box-item-2-open-text-2\.\. {
     width: 40%;
+    /* margin-bottom: 1px; */
 }.section-box-item-2-open-text-2-2 h1 {
     font-size: 9px;
     color: black;
@@ -235,6 +236,7 @@ h1 {}
 }.section-box-item-2-open-text-3 {
     width: 80%;
     margin: auto;
+    margin-bottom: 12px;
 }
 
 .section-box-item-2-open-text-3 h1 {
@@ -245,8 +247,9 @@ h1 {}
     /* display: block; */
 }
 .section-box-gp-main-1 h1 {
-    font-size: 20px;
+    font-size: 17px;
     color: black;
+    text-transform: uppercase;
 }
 
 .section-box-gp-1 {
@@ -274,4 +277,41 @@ h1 {}
 }
 .section-box-gp-main-2 {
     margin-bottom: 17px;
+}
+.section-box-gp-main-3 {
+    width: 90%;
+    margin-bottom: 10px;
+}
+
+.section-box-gp-main-3 img {
+    max-width: 100%;
+    margin-bottom: 10px;
+}
+
+.section-box-gp-main-3 h1 {
+    font-size: 22px;
+    color: black;
+    margin-bottom: 5px;
+}
+
+.section-box-gp-main-3 h2 {
+    font-size: 14px;
+    color: black;
+}.section-box-item-bd-1 {
+    width: 90%;
+    margin: auto;
+}
+
+
+
+.section-box-item-bd-main-1 h1 {
+    font-size: 17px;
+    color: black;
+    text-transform: uppercase;
+    padding: 10px 10px 0 0;
+    margin-bottom: 14px;
+}.section-box-item-bd-main-2 h1 {
+    font-size: 22px;
+    color: black;
+    margin-bottom: 7px;
 }
